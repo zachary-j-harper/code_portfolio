@@ -1,1 +1,2 @@
-
+As the last of the taught assignments, this one introduces class inheritance using 2D and 3D shape classes, which both inherit certain properties from the pure shape class which contains virtual functions.
+These classes then have their own child classes to define specific shapes.
