@@ -1,1 +1,2 @@
-
+This is a very simple piece of code to demonstrate a grasp of the basic syntax of C++. 
+This primarily serves to demonstrate I had no knowledge of C++ before this course.
