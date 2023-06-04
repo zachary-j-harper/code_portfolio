@@ -1,1 +1,5 @@
+This piece of code was written over two weeks, with different requirements for each weekly submission.
 
+The first week made use of functions and expanded on streams to read in files and calculate statistics using the contained data.
+
+The second week introduced structs to provide a better method of containing the data and iterators to better sort through it.
