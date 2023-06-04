@@ -1,1 +1,3 @@
+This assignment added custom constructors to classes to another mathematical format, matrices.
+Like the previous assignment the mathematical operators were overloaded, along with the copy and move operators.
 
