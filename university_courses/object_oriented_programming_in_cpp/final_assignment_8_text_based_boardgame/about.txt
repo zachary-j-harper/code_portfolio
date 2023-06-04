@@ -1,1 +1,6 @@
+This was the main assessment of the course. The brief was to create a text based boardgame, and therefore was reasonably open ended. The lack of graphical modules was deliberately specified by the lectuerers.
+I decided to program backgammon, a reasonably simple game that would allow me to demonstrate the principles required for a high mark without becoming overcomplicated
 
+The main learning point for this assignemnt that had not come up before was the use of header files to define classes and then use the .cpp files to complete the functions in order to improve readability of the code.
+
+Whilst I still obtained a high mark for this piece of code, were I to do this again I would probably reconsider how I approached the board as I think it was quite different to a lot of my peers, although that is not necessarily a bad thing on its own. This assessment was also completed during my exam period for other courses, so there was quite a lot of time pressure.
