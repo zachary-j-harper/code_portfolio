@@ -1,1 +1,2 @@
-
+This assignment introduced classes, a key feature of object oriented programming, how to set up class functions, and also how to make them recursive.
+The example problem allows for the definition of a galaxy class, which may contain other instances of the same class to model a central galaxy with other smaller orbiting galaxies.
