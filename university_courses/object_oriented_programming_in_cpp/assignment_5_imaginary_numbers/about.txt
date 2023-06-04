@@ -1,1 +1,3 @@
-
+This assignment built on classes with overload funtions and friend functions.
+In this case, the standard mathematical operators are overloaded for a class used for imaginary numbers, as these operators would not otherwise produce the correct results.
+The friend functions are then used to input and output the imaginary numbers in a visually pleasing manner.
