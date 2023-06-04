@@ -1,0 +1,1 @@
+This course was an introduction to programming in C++ and specifically using it for object oriented programming and how it is different from a language like Python. I obtained a final mark in this course of 77%, well within a 1st classification.
