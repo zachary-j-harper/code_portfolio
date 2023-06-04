@@ -1,1 +1,1 @@
-
+Another reasonably simple piece of code, this assignment introduced loops and conditional statements to validate user input, completeing some physical calculations and returning their results using this input.
