@@ -1,1 +1,2 @@
-
+As the first assignment in the course, this progam demonstrates an understanding of the basic concenpts of python, like functions, conditional statements, and loops. 
+The program itself is a test based calculation program that determines a few qualities about a bouncing ball, and presents it using the formatting syntax.
