@@ -1,1 +1,2 @@
-
+As the second assigment of the course this task incorporated mathematical python functions such as numpy and matplotlib that allow python to create arrays and images of graphs, along with reading in data from a file.
+This file reads in the data from the accompanying .csv file, and fits a graph to the data by minimising the chi squared. This data is then presented graphically.
