@@ -1,1 +1,3 @@
-
+As the final assignment in this course, this program builds on the the previous by incorporating more complex requirements.
+One or more files can be read in from the same folder as the code, which will strip out any data that is incorrectly formatted or incomplete. 
+It then fits the function and plots a contour graph with is then saved as a single .png file.
