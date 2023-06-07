@@ -1,1 +1,11 @@
+My final year project for my degree involved working with the CERN subgroup LHCb alongside my project partner. 
+The aim of the project was to integrate two pieces of software with each other, the Gauss Simulation framework, and the Herwig Event generator.
+Herwig is a piece of software that simulates particle collisions inside the Large Hadron Collider (LHC). Gauss is a framework that allows Physicists to run collision simlators like Herwig and others like Pythia, and use and interpret this data further. 
+Due to the niche academic nature of this project, there is little documentation and the majority of the understanding required for this purpose we had to work out for ourselves by reading and experimenting with the code.
+Most of the work for this project was completed on remote login CERN user areas, which I unfortunately no longer have access to after completeing the project and no longer working for CERN. 
+The Gauss Gitlab page can be found here: https://gitlab.cern.ch/lhcb/Gauss/-/tree/master/Gen
+And the Herwig7 codebase can be downloaded here: https://herwig.hepforge.org/index.html
+This project introduced me to a variety of new languages and systems, such as a full collaborative use of git on an entirely text-based Unix OS, and the use of Bash and CMake for building projects.
+
+In this folder are the two reports I produced for the project, which detail the process and outcomes that we undertook for the project. Due to being the final project for my Physics Degree they are more oriented towards the Physical side of the project than the actual code itself but it is still within their scope.
 
